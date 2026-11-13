@@ -1,0 +1,14 @@
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM5/Actividades/Activitat5/Codi/bin/Debug/net10.0/Codi
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM5/Actividades/Activitat5/Codi/bin/Debug/net10.0/Codi.deps.json
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM5/Actividades/Activitat5/Codi/bin/Debug/net10.0/Codi.runtimeconfig.json
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM5/Actividades/Activitat5/Codi/bin/Debug/net10.0/Codi.dll
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM5/Actividades/Activitat5/Codi/bin/Debug/net10.0/Codi.pdb
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM5/Actividades/Activitat5/Codi/obj/Debug/net10.0/Codi.GeneratedMSBuildEditorConfig.editorconfig
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM5/Actividades/Activitat5/Codi/obj/Debug/net10.0/Codi.AssemblyInfoInputs.cache
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM5/Actividades/Activitat5/Codi/obj/Debug/net10.0/Codi.AssemblyInfo.cs
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM5/Actividades/Activitat5/Codi/obj/Debug/net10.0/Codi.csproj.CoreCompileInputs.cache
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM5/Actividades/Activitat5/Codi/obj/Debug/net10.0/Codi.dll
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM5/Actividades/Activitat5/Codi/obj/Debug/net10.0/refint/Codi.dll
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM5/Actividades/Activitat5/Codi/obj/Debug/net10.0/Codi.pdb
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM5/Actividades/Activitat5/Codi/obj/Debug/net10.0/Codi.genruntimeconfig.cache
+/home/arrora/Documents/Cole/jesuites/FP_informàtica-Arnau_Roy_Ramos/DAM_2n_2025-2026/SM5/Actividades/Activitat5/Codi/obj/Debug/net10.0/ref/Codi.dll
