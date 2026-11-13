@@ -5,7 +5,7 @@ namespace PracticaGit
     {
         static void Main(string[] args)
         {
-            Persona persona = new Persona("Arnau");
+            Persona persona = new Persona("Arnau",19);
             Salutador salutador = new Salutador();
 
             salutador.Saluda(persona);
